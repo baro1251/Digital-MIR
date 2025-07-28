@@ -32,6 +32,13 @@ is a lightweight forensic investigation tool built in Python. It allows investig
 - **Microsoft Build Tools:** [Install Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 - **OpenAI API Key:** [Get API Key](https://platform.openai.com/)
 
+---
+
+
+## ✅ Installation  
+- mir.py
+
+---
 
 
 ## 📦 Python Libraries:
