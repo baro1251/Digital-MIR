@@ -30,8 +30,7 @@ is a lightweight forensic investigation tool built in Python. It allows investig
 
 
 
-## 📦 Python Libraries
-يجب تثبيت المكتبات التالية:
+## 📦 Python Libraries:
 ```bash
 pip install openai
 pip install fpdf
