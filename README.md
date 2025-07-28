@@ -37,7 +37,9 @@ pip install fpdf
 pip install pywin32
 pip install winshell
 
--------
+
+---
+
 ## 🔮 Future Updates
 1. ✅ Implement **stronger detection rules** to identify suspicious content.
 2. ✅ Add **analysis of administrator privileges** and monitor unlocking attempts to enhance privacy protection.
