@@ -9,16 +9,20 @@ is a lightweight forensic investigation tool built in Python. It allows investig
 - 📄 **Exported analysis results** into structured PDF reports.
 - 🔗 **Supported integration with Autopsy** for deeper forensic analysis.
 
-# 🔍 Digital MIR Forensics Investigation Tool  
-**AI-powered Digital Forensics Tool with GPT and Autopsy Integration**  
+---
 
+## 🔮 Future Updates
+1. ✅ Implement **stronger detection rules** to identify suspicious content.
+2. ✅ Add **analysis of administrator privileges** and monitor unlocking attempts to enhance privacy protection.
+3. ✅ Enable **location tracking for suspicious photos, calls, and messages** for better forensic investigation.
 
 ## 🛠️ Requirements
 - **Python 3.8+**
 - **Pip** 
 - **OpenAI API Key** 
 - **Autopsy** 
-- **Microsoft Build Tools** 
+- **Microsoft Build Tools**
+
 
 ---
 
@@ -35,15 +39,6 @@ is a lightweight forensic investigation tool built in Python. It allows investig
 pip install openai
 pip install fpdf
 pip install pywin32
-pip install winshell
-
-
----
-```bash
-
-## 🔮 **Future Updates**
-1. ✅ Implement **stronger detection rules** to identify suspicious content.
-2. ✅ Add **analysis of administrator privileges** and monitor unlocking attempts to enhance privacy protection.
-3. ✅ Enable **location tracking for suspicious photos, calls, and messages** for better forensic investigation.
+pip install winshell 
 
 
