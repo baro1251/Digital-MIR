@@ -39,6 +39,14 @@ is a lightweight forensic investigation tool built in Python. It allows investig
 pip install openai
 pip install fpdf
 pip install pywin32
-pip install winshell 
+pip install winshell
+
+---
+
+## 👤 Author
+**Developed by:** Baraa Eltayeb  
+📧 Email: baroaltayeb@gmail.com
+
+
 
 
